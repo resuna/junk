@@ -1,0 +1,3 @@
+# The UNIX personalities playing cards
+
+I just realized that I couldn't find a complete set of this pack online and I had it right here, so...
